@@ -58,6 +58,8 @@ Loss	< 0.5
 
 👩‍💻 Author
 Javeria Iqbal Bachelor’s in Artificial Intelligence — Dawood University
+
+
 **DEPLOY ON STREAMLIT**
 <img width="964" height="644" alt="image" src="https://github.com/user-attachments/assets/0e67b514-9c3c-4a79-8053-2ba45bea8418" />
 <img width="925" height="490" alt="image" src="https://github.com/user-attachments/assets/c4571511-7ca7-4120-aff4-fce42c65f456" />
